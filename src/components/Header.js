@@ -4,7 +4,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import SearchIcon from '@mui/icons-material/Search';
 import VideoCallOutlinedIcon from '@mui/icons-material/VideoCallOutlined';
 import NotificationsOutlinedIcon from '@mui/icons-material/NotificationsOutlined';
-import  {Avatar}   from "@mui/material";
+import  Avatar  from "@mui/material";
 
 import Avatar from '@mui/material/Avatar';
 
