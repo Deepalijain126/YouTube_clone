@@ -21,7 +21,7 @@ function Header() {
         <div className='header_right'>
            <VideoCallOutlinedIcon className="header-icon"></VideoCallOutlinedIcon>
            <NotificationsOutlinedIcon  className="header-icon"></NotificationsOutlinedIcon>
-            <Avatar alt="Deepali" src="\YouTube_clone\pic2.jpg"></Avatar>
+            <Avatar alt="Deepali" src="\YouTube_clone\pic2.JPG"></Avatar>
         </div>
     </div>
     )
