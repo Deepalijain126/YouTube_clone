@@ -13,7 +13,7 @@ function Header() {
     <div className='header'>
         <div className='header_left'>
             <MenuIcon className='menu-left'></MenuIcon> 
-                <img className="header-logo" src="\logo.svg"></img>
+                <img className="header-logo" src=".\YouTube_clone\logo.svg"></img>
         </div>
         <div className='header_center'>
           <input placeholder="search"type="text"></input>
