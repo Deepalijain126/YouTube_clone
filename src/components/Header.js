@@ -13,7 +13,7 @@ function Header() {
     <div className='header'>
         <div className='header_left'>
             <MenuIcon className='menu-left'></MenuIcon> 
-                <img className="header-logo" src=".\YouTube_clone\logo.svg"></img>
+                <img className="header-logo" src="\YouTube_clone\logo.svg"></img>
         </div>
         <div className='header_center'>
           <input placeholder="search"type="text"></input>
@@ -22,7 +22,7 @@ function Header() {
         <div className='header_right'>
            <VideoCallOutlinedIcon className="header-icon"></VideoCallOutlinedIcon>
            <NotificationsOutlinedIcon  className="header-icon"></NotificationsOutlinedIcon>
-            <Avatar alt="Deepali" src="\pic2.jpg"></Avatar>
+            <Avatar alt="Deepali" src="\YouTube_clone\pic2.jpg"></Avatar>
         </div>
     </div>
     )
