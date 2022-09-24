@@ -14,7 +14,7 @@ import VideoCard from './videocard.js';
      views= "2472719"
      VideoUrl="https://www.youtube.com/watch?v=e3EfNfE8pCU"
      channelImage="\channels\donut.jpg"
-     videoThumbnail ="\videos\lotus-everything-you-need-to-know.jpg"
+     videoThumbnail ="\YouTube_clone\videos\lotus-everything-you-need-to-know.jpg"
     />
     <VideoCard
      channelName= "Dua Lipa"
