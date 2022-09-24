@@ -71,7 +71,7 @@ import VideoCard from './videocard.js';
     views  = '2232114'
     channelImage = "\YouTube_clone\channels\nintendo-life.jpg"
     videoThumbnail = "\YouTube_clone\videos\26-best-games.jpg"
-    ></VideoCard>s
+    ></VideoCard>
     
     </div>
     </div>
